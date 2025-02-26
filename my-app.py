@@ -1,5 +1,6 @@
 print("my first script!")
 
-for i in range(10):
-    print(f"numbers:{i+1} " )
-    print("good morning")
+for i in range(20):
+    print(f"{i} squared is {i**2}")
+    print("good job!")
+     
